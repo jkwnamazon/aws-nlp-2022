@@ -1,3 +1,3 @@
-# aws-nlp-2022-lex
+# aws-nlp-2022
 
 Welcome to the AWS NLP Summit
