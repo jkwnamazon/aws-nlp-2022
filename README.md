@@ -1,4 +1,4 @@
-# aws-nlp-2022
+# AWS-NLP-2022
 
 Welcome to the AWS NLP Summit!
 
